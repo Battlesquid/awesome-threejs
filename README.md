@@ -117,6 +117,10 @@
 
 # Resources
 
+## Miscellaneous
+
+- [Three.js Resources](https://threejsresources.com/): Contains a bunch of curated resources (tools, tutorials, libraries, and techniques...) related to Three.js
+
 ## Matcaps
 
 - [Matcap repository](https://github.com/nidorx/matcaps)
