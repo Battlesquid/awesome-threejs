@@ -223,7 +223,7 @@
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber): A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
 - [drei](https://github.com/pmndrs/drei): Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
-- [react-postprocessing](https://github.com/pmndrs/react-postprocessing): a postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
+- [react-postprocessing](https://github.com/pmndrs/react-postprocessing): A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
 - [react-spring](https://www.react-spring.dev/): An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fiber)
 - [framer-motion](https://www.framer.com/motion/): A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for binding animation on entering and leaving the viewport element.
 
@@ -241,9 +241,10 @@
 
 ### Svelte
 
-- [threlte](https://github.com/grischaerbe/threlte): A three.js component library for Svelte.
+- [Threlte](https://github.com/grischaerbe/threlte): A three.js component library for Svelte
 - [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed): Declarative ThreeJS for Svelte
   by [@Rich-Harris](https://github.com/Rich-Harris)
+- [threlte-postprocessing](https://github.com/1bye/threlte-postprocessing): A postprocessing wrapper for Threlte by [@1bye](https://github.com/1bye)
 
 ## Physics
 
