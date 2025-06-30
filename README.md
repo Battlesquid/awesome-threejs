@@ -163,6 +163,7 @@
 
 - [Polygonjs](https://polygonjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials
   and animation.
+- [Three-Blender](https://github.com/ppmpreetham/three-blender): Blender based tool, to convert your Blender files directly to threeJS.
 
 ## 3D modeling
 
